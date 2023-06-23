@@ -179,7 +179,7 @@ export default function Home() {
               </h2>
 
               <p className="mt-6 text-lg">
-                {`As Degens, we are committed to strengthening our community through interactive gaming experiences. One of our primary objectives is to distribute selective whitelists through events to maintain an active and engaged community`}
+                {`Oldu mu, we are committed to strengthening our community through interactive gaming experiences. One of our primary objectives is to distribute selective whitelists through events to maintain an active and engaged community`}
               </p>
             </div>
           </div>
